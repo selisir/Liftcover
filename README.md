@@ -22,6 +22,7 @@ I 565 esempi negativi sono creati sostituendo una parola in ogni frase positiva 
 
 ### 👨‍👩‍👧 Dataset 2 — SameGen 
 [@Mottyna](https://github.com/Mottyna)
+
 **Descrizione**
 Il dataset SameGen ha come obiettivo predire se due persone appartengono alla stessa generazione (ad esempio fratelli, cugini, genitori/figli, ecc.) a partire da relazioni di parentela.
 Task: Classification nel dominio Kinship 👉 Totale istanze: 1.081
